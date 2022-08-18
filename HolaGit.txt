@@ -2,4 +2,4 @@ Hola git
 
 Estasmos probando el repostorio ///
 
-cambio en el repositorio
+prueba con merge
